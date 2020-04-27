@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation Test">
+
+	<test name="Smoke test cases">
+	<!--  <groups>
+	<run>
+	<include name="priority1"></include>
+	</run>
+	</groups>
+	-->
+	
+	<parameter name="para1" value="paraval1" />
+	
+		<classes>
+			<class name="testngFiles.Annotations3" />
+		</classes>
+	</test>
+
+</suite>
