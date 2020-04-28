@@ -19,6 +19,7 @@ public class Annotation5 extends TestBase{
 		System.out.println("hello hai1");
 		System.out.println("hai22");
 		System.out.println("hai33");
+		System.out.println("hai44");
 	}
 
 }
