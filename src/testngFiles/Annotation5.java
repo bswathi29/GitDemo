@@ -21,5 +21,12 @@ public class Annotation5 extends TestBase{
 		System.out.println("hai33");
 		System.out.println("hai44");
 	}
-
+	@Test
+	public void abcde() throws IOException
+	{
+		System.out.println("hello hai1e");
+		System.out.println("hai22e");
+		System.out.println("hai33e");
+		System.out.println("hai44e");
+	}
 }
