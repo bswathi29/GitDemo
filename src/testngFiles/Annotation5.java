@@ -10,7 +10,7 @@ public class Annotation5 extends TestBase{
 	public void abc() throws IOException
 	{
 	
-	System.out.println("Hello World");
+
 	}
 
 }
